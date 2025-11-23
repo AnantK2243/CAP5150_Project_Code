@@ -1,0 +1,105 @@
+--- Direct ---
+Measuring RTT for Direct
+Avg RTT: 3.721022999889101 ms
+Measuring Throughput for Direct
+Throughput: 699.1537712270106 Mbps
+CPU Load: 0.8847817087107274%
+{'timestamp': '2025-11-23T15:14:54.639751', 'connection_type': 'Direct', 'latency_ms': 3.721, 'throughput_mbps': 699.154, 'cpu_load': 0.88}
+--- WireGuard ---
+Measuring RTT for WireGuard
+Avg RTT: 4.359374250088877 ms
+Measuring Throughput for WireGuard
+Throughput: 667.022474351387 Mbps
+CPU Load: 1.0505747266438086%
+{'timestamp': '2025-11-23T15:15:06.803355', 'connection_type': 'WireGuard', 'latency_ms': 4.359, 'throughput_mbps': 667.022, 'cpu_load': 1.05}
+--- SSH ---
+Measuring RTT for SSH_Tunnel
+Avg RTT: 6.089859200073988 ms
+Measuring Throughput for SSH_Tunnel
+Throughput: 704.7534874336205 Mbps
+CPU Load: 0.9441438559398304%
+{'timestamp': '2025-11-23T15:15:21.224093', 'connection_type': 'SSH_Tunnel', 'latency_ms': 6.09, 'throughput_mbps': 704.753, 'cpu_load': 0.94}
+--- Direct ---
+Measuring RTT for Direct
+Avg RTT: 3.6113011001361883 ms
+Measuring Throughput for Direct
+Throughput: 693.0525987395022 Mbps
+CPU Load: 0.8169400451302633%
+{'timestamp': '2025-11-23T15:15:54.741887', 'connection_type': 'Direct', 'latency_ms': 3.611, 'throughput_mbps': 693.053, 'cpu_load': 0.82}
+--- WireGuard ---
+Measuring RTT for WireGuard
+Avg RTT: 4.181909099861514 ms
+Measuring Throughput for WireGuard
+Throughput: 670.404051984901 Mbps
+CPU Load: 0.9545266217620606%
+{'timestamp': '2025-11-23T15:16:06.893493', 'connection_type': 'WireGuard', 'latency_ms': 4.182, 'throughput_mbps': 670.404, 'cpu_load': 0.95}
+--- SSH ---
+Measuring RTT for SSH_Tunnel
+Avg RTT: 5.571310999948764 ms
+Measuring Throughput for SSH_Tunnel
+Throughput: 704.8618540740313 Mbps
+CPU Load: 1.0665322015632168%
+{'timestamp': '2025-11-23T15:16:21.327336', 'connection_type': 'SSH_Tunnel', 'latency_ms': 5.571, 'throughput_mbps': 704.862, 'cpu_load': 1.07}
+--- Direct ---
+Measuring RTT for Direct
+Avg RTT: 3.671330500219483 ms
+Measuring Throughput for Direct
+Throughput: 703.8067353006871 Mbps
+CPU Load: 0.902179294653651%
+{'timestamp': '2025-11-23T15:17:00.002060', 'connection_type': 'Direct', 'latency_ms': 3.671, 'throughput_mbps': 703.807, 'cpu_load': 0.9}
+--- WireGuard ---
+Measuring RTT for WireGuard
+Avg RTT: 4.633264250514912 ms
+Measuring Throughput for WireGuard
+Throughput: 668.0928996947672 Mbps
+CPU Load: 0.9902751565231768%
+{'timestamp': '2025-11-23T15:17:12.165054', 'connection_type': 'WireGuard', 'latency_ms': 4.633, 'throughput_mbps': 668.093, 'cpu_load': 0.99}
+--- SSH ---
+Measuring RTT for SSH_Tunnel
+Avg RTT: 5.895707999479782 ms
+Measuring Throughput for SSH_Tunnel
+Throughput: 708.8608563736882 Mbps
+CPU Load: 1.152206102807876%
+{'timestamp': '2025-11-23T15:17:26.561217', 'connection_type': 'SSH_Tunnel', 'latency_ms': 5.896, 'throughput_mbps': 708.861, 'cpu_load': 1.15}
+--- Direct ---
+Measuring RTT for Direct
+Avg RTT: 3.2535032003579545 ms
+Measuring Throughput for Direct
+Throughput: 698.8420101625071 Mbps
+CPU Load: 0.9223193232898728%
+{'timestamp': '2025-11-23T15:18:22.536306', 'connection_type': 'Direct', 'latency_ms': 3.254, 'throughput_mbps': 698.842, 'cpu_load': 0.92}
+--- WireGuard ---
+Measuring RTT for WireGuard
+Avg RTT: 4.513938000127382 ms
+Measuring Throughput for WireGuard
+Throughput: 667.1101097927398 Mbps
+CPU Load: 0.945723659582607%
+{'timestamp': '2025-11-23T15:18:34.703595', 'connection_type': 'WireGuard', 'latency_ms': 4.514, 'throughput_mbps': 667.11, 'cpu_load': 0.95}
+--- SSH ---
+Measuring RTT for SSH_Tunnel
+Avg RTT: 5.923703399821534 ms
+Measuring Throughput for SSH_Tunnel
+Throughput: 697.5122884444451 Mbps
+CPU Load: 1.1276976372676308%
+{'timestamp': '2025-11-23T15:18:49.142645', 'connection_type': 'SSH_Tunnel', 'latency_ms': 5.924, 'throughput_mbps': 697.512, 'cpu_load': 1.13}
+--- Direct ---
+Measuring RTT for Direct
+Avg RTT: 3.7160032501560636 ms
+Measuring Throughput for Direct
+Throughput: 708.629625378395 Mbps
+CPU Load: 0.895909471876009%
+{'timestamp': '2025-11-23T15:19:37.262998', 'connection_type': 'Direct', 'latency_ms': 3.716, 'throughput_mbps': 708.63, 'cpu_load': 0.9}
+--- WireGuard ---
+Measuring RTT for WireGuard
+Avg RTT: 4.379448649706319 ms
+Measuring Throughput for WireGuard
+Throughput: 671.421457032043 Mbps
+CPU Load: 0.992341828082067%
+{'timestamp': '2025-11-23T15:19:49.424604', 'connection_type': 'WireGuard', 'latency_ms': 4.379, 'throughput_mbps': 671.421, 'cpu_load': 0.99}
+--- SSH ---
+Measuring RTT for SSH_Tunnel
+Avg RTT: 5.5384742003298015 ms
+Measuring Throughput for SSH_Tunnel
+Throughput: 714.2884712466314 Mbps
+CPU Load: 1.0151923796939981%
+{'timestamp': '2025-11-23T15:20:03.853554', 'connection_type': 'SSH_Tunnel', 'latency_ms': 5.538, 'throughput_mbps': 714.288, 'cpu_load': 1.02}
